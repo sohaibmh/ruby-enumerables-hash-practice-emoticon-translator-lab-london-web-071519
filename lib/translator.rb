@@ -13,4 +13,4 @@ def get_english_meaning
   # code goes here
 end
 
-puts load(load_library)
+puts load_library
