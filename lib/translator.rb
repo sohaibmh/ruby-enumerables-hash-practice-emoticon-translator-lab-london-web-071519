@@ -13,4 +13,4 @@ def get_english_meaning
   # code goes here
 end
 
-print load_library("emotico")
+p load_library("emotico")
